@@ -2,7 +2,7 @@
 # This file will be sourced in init.sh
 # Namespace functions with provisioning_
 
-# https://raw.githubusercontent.com/ai-dock/stable-diffusion-webui/main/config/provisioning/default.sh
+# https://raw.githubusercontent.com/gymdreams8/aidock-provision/main/vast/aidock_a1111_gd8_1.sh
 
 ### Edit the following arrays to suit your workflow
 
